@@ -1,0 +1,19 @@
+{
+  "name": "serverless-redis",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremydaly/serverless-redis.git"
+  },
+  "author": "Jeremy Daly <jeremy@jeremydaly.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremydaly/serverless-redis/issues"
+  },
+  "homepage": "https://github.com/jeremydaly/serverless-redis#readme"
+}
